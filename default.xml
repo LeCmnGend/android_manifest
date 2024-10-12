@@ -705,6 +705,7 @@
   <project path="tools/tradefederation/core" name="platform/tools/tradefederation" groups="pdk,tradefed" remote="aosp" />
   <project path="tools/trebuchet" name="platform/tools/trebuchet" groups="tools,cts,pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
 
+  <include name="snippets/lecmngend.xml" />
   <include name="snippets/lineage.xml" />
   <include name="snippets/rr.xml" />
   <include name="snippets/revived.xml" />

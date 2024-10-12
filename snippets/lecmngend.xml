@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+
+
+  <!-- Additions -->
+
+  <!-- MindTheGapps -->
+
+  <!-- MicroG -->
+
+  <!-- Vendor -->
+  <project path="vendor/rr" name="vendor_resurrection" remote="lecmngend"/>
+
+</manifest>
