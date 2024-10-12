@@ -20,6 +20,9 @@
   <!-- Apps -->
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="lecmngend" /> 
 
+  <!-- Interfaces -->
+  <project path="hardware/interfaces" name="android_hardware_interfaces" remote="lecmngend"/>
+
   <!-- MindTheGapps -->
 
   <!-- MicroG -->
