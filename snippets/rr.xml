@@ -2,13 +2,13 @@
 <manifest>
 
   <!-- Apps -->
-  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="rr" /> 
-  <project path="packages/apps/Updater" name="packages_apps_updater" remote="bb"/>
-  <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="rr" />
-  <project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="rr" />
   <project path="packages/apps/CustomDoze" name="packages_apps_CustomDoze" remote="rr" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="rr" /> 
+  <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="rr" />
   <project path="packages/apps/Plugins" name="packages_apps_Plugins" remote="rr" />
   <project path="packages/apps/RRWallpapers" name="packages_apps_RR_Wallpapers" remote="rr" />
+  <project path="packages/apps/ThemePicker" name="platform_packages_apps_ThemePicker" remote="rr" />
+  <project path="packages/apps/Updater" name="packages_apps_updater" remote="bb"/>
 
   <!-- Frameworks -->
   <project path="frameworks/opt/slimrecent" name="frameworks_opt_slimrecent" remote="rr" />

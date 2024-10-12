@@ -17,6 +17,9 @@
 
   <!-- Additions -->
 
+  <!-- Apps -->
+  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="lecmngend" /> 
+
   <!-- MindTheGapps -->
 
   <!-- MicroG -->
