@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="build/soong" name="build_soong" remote="rr-r" >
-    <linkfile src="root.bp" dest="Android.bp" />
-    <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
-  </project>
-
   <!-- Apps -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="rr-r" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="rr-r" />
