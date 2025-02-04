@@ -40,6 +40,10 @@
   <remove-project name="platform/frameworks/libs/systemui" />
   <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="penguin" />
 
+  <!-- Kernel -->
+  <remove-project name="kernel/configs" />
+  <project path="kernel/configs" name="AOSPA/android_kernel_configs" remote="penguin" />
+
   <!-- Manifest -->
   <project path="manifest" name="manifest" remote="penguin" />
 
