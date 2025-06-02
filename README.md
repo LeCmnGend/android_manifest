@@ -12,12 +12,12 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/AICP/platform_manifest.git -b v15.0 --git-lfs
+    $ repo init -u https://github.com/LeCmnGend/android_manifest -b V-aicp --git-lfs --depth=1
 
 
 sync repo :
 
-    $ repo sync
+    $ repo sync --force-sync --force-sync --no-tags 
 
 Some info on how to customize your sync:
 
@@ -168,3 +168,6 @@ https://github.com/AICP/vendor_aicp/blob/v15.0/docs/aicpInfo.md
 ## Maintainer Application ##
 If you have the necessary skills and would like to become a part of our group by becoming a maintainer,
 please see [this link](https://github.com/AICP/vendor_aicp/blob/v15.0/docs/maintainerApplication.md) for further information and maintainer application.
+
+## Many thank to:
+https://github.com/AICP/platform_manifest/tree/v15.0
