@@ -42,7 +42,7 @@
 
   <!-- Kernel -->
   <remove-project name="kernel/configs" />
-  <project path="kernel/configs" name="AOSPA/android_kernel_configs" remote="penguin" />
+  <project path="kernel/configs" name="AOSPA/android_kernel_configs" remote="github" revision="uvite"/>
 
   <!-- Manifest -->
   <project path="manifest" name="manifest" remote="penguin" />
