@@ -48,7 +48,7 @@
   <project path="manifest" name="manifest" remote="penguin" />
 
   <!-- OTA -->
-  <project path="OTA" name="OTA" remote="penguin" />
+  <project path="OTA" name="OTA" remote="penguin" revision="vanity" />
 
   <!-- Packages -->
   <project path="packages/apps/Paranoid/SystemUI" name="android_packages_apps_Paranoid_SystemUI" remote="penguin" />
