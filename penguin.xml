@@ -59,7 +59,7 @@
   <remove-project name="platform/packages/apps/Settings" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="penguin" />
 
-  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="penguin" />
+  <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="penguin" revision="vanity" />
 
   <!-- Vendor -->
   <project path="vendor/aospa" name="android_vendor_aospa" remote="penguin" >
