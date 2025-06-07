@@ -57,10 +57,16 @@
           fetch="https://github.com/crdroidandroid"
           revision="14.0"/>
 
+  <!-- Lineage OS -->
+  <remote name="los"
+          fetch="https://github.com/LineageOS"
+          revision="lineage-21.0"/>
+
   <include name="aosp.xml"/>
   <include name="aospa.xml"/>
   <include name="penguin.xml"/>
   <include name="obsolete.xml"/>
   <include name="crdroid.xml"/>
+  <include name="los.xml"/>
 
 </manifest>
