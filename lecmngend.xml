@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Hardware -->
+  <project path="prebuilts/clang/hots/linux-x86" name="yaosp/prebuilts_clang_host_linux-x86" 
+			remote="gitlab"
+			revision="fourteen" 
+  />
+
+</manifest>

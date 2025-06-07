@@ -62,11 +62,16 @@
           fetch="https://github.com/LineageOS"
           revision="lineage-21.0"/>
 
+  <!-- LeCmnGend Repos -->
+  <remote name="lecmngend"
+          fetch="https://github.com/lecmngend"
+          revision="lineage-21.0"/>
   <include name="aosp.xml"/>
   <include name="aospa.xml"/>
   <include name="penguin.xml"/>
   <include name="obsolete.xml"/>
   <include name="crdroid.xml"/>
   <include name="los.xml"/>
+  <include name="lecmngend.xml"/>
 
 </manifest>
