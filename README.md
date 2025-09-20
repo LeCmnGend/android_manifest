@@ -1,6 +1,6 @@
 # Initialize local repository
 ```
-repo init -u https://github.com/Lunaris-AOSP/android -b 16 --git-lfs
+repo init -u https://github.com/LeCmnGend/android_manifest -b luna --git-lfs
 ```
 
 # Sync up
