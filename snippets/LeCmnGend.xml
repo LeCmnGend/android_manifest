@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Bringup with love -->
+  <remote name="cr"
+          fetch="https://github.com/crdroidandroid/"
+          sync-c="true"
+          sync-j="4"
+          revision="16.0" />
+
+</manifest>

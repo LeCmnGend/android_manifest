@@ -959,4 +959,5 @@
 
   <include name="snippets/lunaris.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="snippets/LeCmnGend.xml" />
 </manifest>
