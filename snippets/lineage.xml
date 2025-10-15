@@ -22,6 +22,7 @@
   <project path="external/rsync" name="LineageOS/android_external_rsync" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" />
   <project path="external/vim" name="LineageOS/android_external_vim" />
+  <project path="frameworks/proto_logging" name="LineageOS/android_frameworks_proto_logging" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" />
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
