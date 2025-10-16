@@ -63,6 +63,7 @@
   <project path="external/jemalloc_new" name="external_jemalloc_new" groups="pdk" remote="lunaris" />
 
   <!-- CodeLinaro additions -->
+  <project path="hardware/qcom-caf/sm8350/display" name="hardware_qcom_display"    groups="qcom" revision="lineage-22.2-caf-sm8350" remote="lunaris" />
   <project path="hardware/qcom-caf/sm8450/display" name="hardware_qcom-caf_sm8450_display" groups="qcom" revision="16" remote="lunaris-device" />
   <project path="hardware/lineage/compat" name="hardware_lineage_compat" remote="lunaris" />
 
