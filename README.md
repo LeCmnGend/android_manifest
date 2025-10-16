@@ -1,6 +1,12 @@
+#Installing dependencies and Repo
+Several packages are needed in order to build crDroid
+```
+sudo aptitude install bc bison build-essential ccache curl flex g++-multilib gcc-multilib git git-lfs gnupg gperf imagemagick lib32ncurses-dev lib32readline-dev lib32z1-dev liblz4-tool libncurses6 libncurses-dev libsdl1.2-dev libssl-dev libwxgtk3.2-dev libxml2 libxml2-utils lzop pngcrush rsync schedtool squashfs-tools xsltproc zip zlib1g-dev -y
+```
+
 # Initialize local repository
 ```
-repo init -u https://github.com/LeCmnGend/android_manifest -b luna --git-lfs
+repo init -u https://github.com/LeCmnGend/android_manifest -b luna --git-lfs --depth=5
 ```
 
 # Sync up
